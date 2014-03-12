@@ -11,7 +11,7 @@ Mosaicdesignsbywenialee::Application.configure do
   config.eager_load = true
 
   # Full error reports are disabled and caching is turned on.
-  config.consider_all_requests_local       = false
+  config.consider_all_requests_local = false
   config.action_controller.perform_caching = true
 
   # Enable Rack::Cache to put a simple HTTP cache in front of your application
@@ -77,4 +77,7 @@ Mosaicdesignsbywenialee::Application.configure do
 
   # Use default logging formatter so that PID and timestamp are not suppressed.
   config.log_formatter = ::Logger::Formatter.new
+
+  # Required for Devise. Remember to change localhost:3000 to actual application host
+  config.action_mailer.default_url_options = { :host => 'mosaicdesignsbywenialee.herokuapp.com' }
 end
