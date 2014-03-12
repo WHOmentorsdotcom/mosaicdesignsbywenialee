@@ -41,10 +41,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="seller.html.erb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="seller.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/listings/seller.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="9" selection-start="921" selection-end="921" vertical-scroll-proportion="-6.75" vertical-offset="213" max-vertical-offset="465">
+            <state line="37" column="9" selection-start="1309" selection-end="1309" vertical-scroll-proportion="0.8076923" vertical-offset="429" max-vertical-offset="645">
               <folding />
             </state>
           </provider>
@@ -68,10 +68,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_footer.html.erb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="_footer.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/layouts/_footer.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="163" selection-start="163" selection-end="163" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="156">
+            <state line="0" column="163" selection-start="163" selection-end="163" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="90">
               <folding />
             </state>
           </provider>
@@ -115,11 +115,11 @@
         <option value="$PROJECT_DIR$/app/views/listings/show.html.erb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/views/seller.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/listings/seller.html.erb" />
         <option value="$PROJECT_DIR$/app/views/layouts/_header.html.erb" />
         <option value="$PROJECT_DIR$/app/controllers/listings_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/listings/index.html.erb" />
         <option value="$PROJECT_DIR$/app/views/layouts/_footer.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/listings/seller.html.erb" />
       </list>
     </option>
   </component>
@@ -660,13 +660,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/listings/seller.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="9" selection-start="921" selection-end="921" vertical-scroll-proportion="-6.75" vertical-offset="213" max-vertical-offset="465">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/_header.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="90" selection-start="1209" selection-end="1209" vertical-scroll-proportion="-6.2083335" vertical-offset="196" max-vertical-offset="540">
@@ -691,6 +684,13 @@
     <entry file="file://$PROJECT_DIR$/app/views/layouts/_footer.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="163" selection-start="163" selection-end="163" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="156">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/listings/seller.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="9" selection-start="1309" selection-end="1309" vertical-scroll-proportion="0.8076923" vertical-offset="429" max-vertical-offset="645">
           <folding />
         </state>
       </provider>
